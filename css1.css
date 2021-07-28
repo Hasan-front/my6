@@ -1,0 +1,134 @@
+body{
+	background-color: white;
+	margin: 0;
+	text-align: center;
+
+}
+h1
+{
+	margin-top: 50px;
+	margin-bottom: 0px;
+	margin-right: 5px;
+	margin-left: 2px;
+	font-family: 'Sacramento', cursive;
+	font-size: 5rem;
+	color:  #66BFBF;
+	line-height: 2;
+
+}
+div{
+	background-color: #F1ECC3;
+	position: relative;
+	padding-top: 100px;
+	;
+}
+
+.rd 
+{
+	background-color: red;
+	width: 200px;
+	height: 200px;
+
+
+}
+.be
+{
+	background-color: blue;
+	height: 200px;
+	width: 200px;
+	
+}
+span
+{
+	text-decoration: underline;
+	font-family: 'Merriweather', serif;
+
+}
+.c1
+{
+	
+	position: relative;
+	bottom: 30px;
+	right: 50px;
+
+	
+	
+}
+.ml
+{
+	position: relative;
+	 
+}
+.c2 
+{
+	position: relative;
+	
+	bottom: 100px;
+	left: 550px;
+
+}
+.hd
+{
+	display: inline-block;
+	position: relative;
+	top :50px;
+	margin-right: 300px;
+
+}
+.programmer
+{
+	font-size: 1.5rem;
+	color:  #66BFBF;
+	font-weight: normal;
+}
+h3
+{
+	color: #11999E;
+}
+.footer-link
+{
+	color: #11999E;
+}
+.btn {
+   background: #3D94F6;
+   background-image: -webkit-linear-gradient(top, #3D94F6, #1E62D0);
+   background-image: -moz-linear-gradient(top, #3D94F6, #1E62D0);
+   background-image: -ms-linear-gradient(top, #3D94F6, #1E62D0);
+   background-image: -o-linear-gradient(top, #3D94F6, #1E62D0);
+   background-image: -webkit-gradient(to bottom, #3D94F6, #1E62D0);
+   -webkit-border-radius: 20px;
+   -moz-border-radius: 20px;
+   border-radius: 20px;
+   color: #FFFFFF;
+   font-family: Times New Roman;
+   font-size: 36px;
+   font-weight: 100;
+   padding: 20px;
+   -webkit-box-shadow: 1px 1px 20px 0 #000000;
+   -moz-box-shadow: 1px 1px 20px 0 #000000;
+   box-shadow: 1px 1px 20px 0 #000000;
+   text-shadow: 1px 1px 20px #000000;
+   border: solid #337FED 1px;
+   text-decoration: none;
+   display: inline-block;
+   cursor: pointer;
+   text-align: center;
+}
+
+.btn:hover {
+   border: solid #337FED 1px;
+   background: #1E62D0;
+   background-image: -webkit-linear-gradient(top, #1E62D0, #3D94F6);
+   background-image: -moz-linear-gradient(top, #1E62D0, #3D94F6);
+   background-image: -ms-linear-gradient(top, #1E62D0, #3D94F6);
+   background-image: -o-linear-gradient(top, #1E62D0, #3D94F6);
+   background-image: -webkit-gradient(to bottom, #1E62D0, #3D94F6);
+   -webkit-border-radius: 20px;
+   -moz-border-radius: 20px;
+   border-radius: 20px;
+   text-decoration: none;
+}
+.cope
+{
+	background-color : whitesmokeh;
+}
